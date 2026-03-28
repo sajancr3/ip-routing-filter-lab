@@ -1,0 +1,32 @@
+# Java / Maven
+target/
+*.class
+*.jar
+*.war
+*.log
+
+# IDE / editor
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets / env
+.env
+.env.*
+application-local.properties
+secrets.properties
+
+# Packet captures
+captures/
+*.pcap
+*.pcapng
+
+# Temp files
+tmp/
+temp/
+__pycache__/
+*.pyc
